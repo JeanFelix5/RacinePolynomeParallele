@@ -14,7 +14,7 @@
 
 
 
-//Code de Jean-Félix Girard GIRJ10060004 Laboratoire #1
+//Code de Jean-Félix Girard Laboratoire #1
 
 #include "pch.h"
 
